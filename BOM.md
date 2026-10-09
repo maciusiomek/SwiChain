@@ -15,7 +15,6 @@
 | [BH-18650-4](https://www.lcsc.com/product-detail/C49118399.html?s_z=n_q_BH-18650-4) | So I won't have to solder wires directly to my Li-Ion (cuz I hate battery go boom boom) | 1 | $1.25 | $1.25 | [HanElectricity(瀚源)](https://www.lcsc.com/product-detail/C49118399.html?s_z=n_q_BH-18650-4) |
 | [EC11E15244B2](https://www.lcsc.com/product-detail/C470754.html?s_z=n_q_C470754&globalKeyword=C470754) | For smth like volume control | 1 | $2.40 | $2.40 | [ALPSALPINE(阿尔卑斯阿尔派)](https://www.lcsc.com/product-detail/C470754.html?s_z=n_q_C470754&globalKeyword=C470754) |
 | [WS2812](https://www.lcsc.com/product-detail/C42417498.html?s_z=n_q_C42417498&globalKeyword=C42417498) | RGB underglow for more FPS | 6 | $0.05 | $0.30 | [worldsemi](https://www.lcsc.com/product-detail/C42417498.html?s_z=n_q_C42417498&globalKeyword=C42417498) |
-| Switch_SW_Push | — | 7 | $0.00 | $0.00 | — |
 | MST-12D18G4 SPDT Slide Switch | — | 1 | $0.00 | $0.00 | SHOU HAN(首韩) |
 | XIAO NRF52840 | — | 1 | $0.00 | $0.00 | — |
 | **Parts subtotal** | — | — | — | **$3.95** | — |
