@@ -16,7 +16,7 @@
 | [EC11](https://allegro.pl/oferta/enkoder-encoder-ec-11-20-obrotow-z-przyciskiem-8538262001) | For smth like volume control | 1 | $1.15 | $1.15 | [Allegro (romolusz)](https://allegro.pl/oferta/enkoder-encoder-ec-11-20-obrotow-z-przyciskiem-8538262001) |
 | [XIAO NRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) | Brains of da thing | 1 | $9.90 | $9.90 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) |
 | **Parts subtotal** | — | — | — | **$12.58** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$12.58** | — |
+| **Tax & shipping** | — | — | — | **$23.00** | — |
+| **Total** | — | — | — | **$35.58** | — |
 
-$17.42 left of the tier's funding.
+**$5.58 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
