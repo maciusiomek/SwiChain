@@ -18,7 +18,7 @@
 | [PCB](https://jlcpcb.com/) | It's a PCB! | 1 | $2.00 | $2.00 | [JLCPCB](https://jlcpcb.com/) |
 | [7 segment display](https://allegro.pl/oferta/wyswietlacz-led-7-segmentowy-1-cyfra-20-40mm-dwie-kropki-zielony-17003267870) | To get free shipping from the seeed xiao seller | 1 | $0.60 | $0.60 | [Allegro (kamami_pl)](https://allegro.pl/oferta/wyswietlacz-led-7-segmentowy-1-cyfra-20-40mm-dwie-kropki-zielony-17003267870) |
 | **Parts subtotal** | — | — | — | **$17.66** | — |
-| **Tax & shipping** | — | — | — | **$21.69** | — |
-| **Total** | — | — | — | **$39.35** | — |
+| **Tax & shipping** | — | — | — | **$11.16** | — |
+| **Total** | — | — | — | **$28.82** | — |
 
-**$9.35 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$1.18 left of the tier's funding.
