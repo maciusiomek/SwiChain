@@ -15,9 +15,8 @@
 | [18650 holder](https://allegro.pl/oferta/koszyk-na-ogniwo-18650-holder-smd-smt-1x18650-18577771767) | So I won't have to solder wires directly to my Li-Ion (cuz  battery go boom boom no good) | 1 | $1.53 | $1.53 | [Allegro (SINTRIX)](https://allegro.pl/oferta/koszyk-na-ogniwo-18650-holder-smd-smt-1x18650-18577771767) |
 | [EC11](https://allegro.pl/oferta/enkoder-encoder-ec-11-20-obrotow-z-przyciskiem-8538262001) | For smth like volume control | 1 | $1.15 | $1.15 | [Allegro (romolusz)](https://allegro.pl/oferta/enkoder-encoder-ec-11-20-obrotow-z-przyciskiem-8538262001) |
 | [XIAO NRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) | Brains of da thing | 1 | $9.90 | $9.90 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) |
-| [PCB](https://jlcpcb.com) | It's a PCB! (price through JLCONE app) | 5 | $0.40 | $2.00 | [JLCPCB](https://jlcpcb.com) |
-| **Parts subtotal** | — | — | — | **$14.58** | — |
+| **Parts subtotal** | — | — | — | **$12.58** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$14.58** | — |
+| **Total** | — | — | — | **$12.58** | — |
 
-$15.42 left of the tier's funding.
+$17.42 left of the tier's funding.
