@@ -17,7 +17,7 @@
 | [XIAO NRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) | Brains of da thing | 1 | $9.90 | $9.90 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) |
 | [PCB](https://jlcpcb.com) | It's a PCB! (price through JLCONE app) | 5 | $0.40 | $2.00 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$14.58** | — |
-| **Tax & shipping** | — | — | — | **$23.00** | — |
-| **Total** | — | — | — | **$37.58** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$14.58** | — |
 
-**$7.58 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$15.42 left of the tier's funding.
