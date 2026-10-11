@@ -3,7 +3,7 @@
 
 So basically my project is a little macropad based on Seeed XIAO nRF52840 and will be running ZMK firmware! It has 7 MX style switches, EC11 encoder and 6 WS2812 LEDs for underglow. It runs out of one 18650 li-ion battery that is charged by the xiao. I think it'll be ok to use without a case, but I might design one when the PCB arrives. 
 
-<a href="https://github.com/maciusiomek/zmk-config-maciusiomek">Click here</a> to go to the repository with ZMK configs! (it doesn't work!)
+<a href="https://github.com/maciusiomek/zmk-config-maciusiomek">Click here</a> to go to the repository with ZMK configs! (it doesn't want to compile!)
 
 Also here are some 3D previews of the PCB and a schematic!
 
