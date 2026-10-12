@@ -12,4 +12,4 @@ Also here are some 3D previews of the PCB and a schematic!
 <img width="3633" height="2598" alt="document" src="https://github.com/user-attachments/assets/a5ec42d5-f959-4d30-ab02-8182bd9e6ab7" />
 
 
-(also big thanks to the guy who made<a href="https://www.ubiqueiot.com/posts/xiao-nrf52840-zmk"> this tutorial</a>!
+(also big thanks to the guy who made<a href="https://www.ubiqueiot.com/posts/xiao-nrf52840-zmk"> this tutorial</a> and creators of <a href="https://github.com/zmkfirmware/zmk">ZMK firmware</a>!)
