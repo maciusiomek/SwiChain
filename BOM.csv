@@ -1,7 +1,7 @@
-﻿"No.","Quantity","Comment","Designator","Footprint","Value","Manufacturer Part","Manufacturer","Supplier Part","Supplier","JLCPCB Price","Name"
-"1","1","BH-18650-4","18650","BAT-SMD_BH-18650-4","","BH-18650-4","HanElectricity(瀚源)","C49118399","LCSC","0.1962","BH-18650-4"
-"2","1","EC11E15244B2","EC11","SW-TH_EC11XXXXXXXX","","EC11E15244B2","ALPSALPINE(阿尔卑斯阿尔派)","C470754","LCSC","0.3576","EC11E15244B2"
-"3","6","WS2812","LED1,LED2,LED3,LED4,LED5,LED6","LED-SMD_4P-L5.0-W5.0-TL-A","","WS2812","worldsemi","C42417498","LCSC","0.0073","WS2812"
-"4","7","Switch_SW_Push","SW1,SW2,SW3,SW4,SW5,SW7,SW8","Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u","SW_Push","","","","","","Switch_SW_Push"
-"5","1","switch","U1","switch","","","","","","",""
-"6","1","XIAO NRF52840","XIAO","COMM-SMD_XIAO-NRF52840_1","","XIAO NRF52840","","C37327670","LCSC","4.4857","XIAO NRF52840"
+Item,Qty,Supplier,Cost/item,Total Cost,link
+18650 holder,1,Allegro (SINTRIX),$2.03,$2.03,https://allegro.pl/produkt/uchwyt-holder-koszyk-18650-1-ogniwo-li-ion-pcb-smt-smd-5e581f90-3f32-4d3c-b59a-6c8c9fe342eb?offerId=15005842024
+EC11,1,Allegro (romolusz),$1.15,$1.15,https://allegro.pl/oferta/enkoder-encoder-ec-11-20-obrotow-z-przyciskiem-8538262001
+XIAO NRF52840,1,Allegro (kamami_pl),$12.38,$12.38,https://allegro.pl/oferta/seeed-xiao-ble-nrf52840-zestaw-rozwojowy-13378095837
+PCB,1,JLCPCB,$2.00,$2.00,https://jlcpcb.com/
+7 segment display,1,Allegro (kamami_pl),$0.60,$0.60,https://allegro.pl/oferta/wyswietlacz-led-7-segmentowy-1-cyfra-20-40mm-dwie-kropki-zielony-17003267870
+Estimated total shipping,1,,,$13.37,
