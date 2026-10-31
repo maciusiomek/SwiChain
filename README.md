@@ -128,10 +128,11 @@ So basically that's it! Go to your bluetooth settings and you should see a devic
 <hr>
 Big thanks to the guy who made<a href="https://www.ubiqueiot.com/posts/xiao-nrf52840-zmk"> this tutorial</a> and creators of <a href="https://github.com/zmkfirmware/zmk">ZMK firmware</a>! <br>
 Also here are some 3D previews of the PCB and a schematic!
-<hr>
-No AI was used in the making of this project.<br>
-<img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/31fa0a0f-d9f5-445f-b6bf-405257bba26e" />
+
 <br><br>
 <img width="810" height="674" alt="a" src="https://github.com/user-attachments/assets/6bb41995-056b-4a12-8ce3-0617c36ccc1f" />
 <img width="776" height="618" alt="b" src="https://github.com/user-attachments/assets/92901b17-2e62-4e9f-b5e1-524a289bbfaf" />
 <img width="3633" height="2598" alt="document" src="https://github.com/user-attachments/assets/a5ec42d5-f959-4d30-ab02-8182bd9e6ab7" />
+<hr>
+No AI was used in the making of this project.<br>
+<img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/31fa0a0f-d9f5-445f-b6bf-405257bba26e" />
